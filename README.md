@@ -14,4 +14,4 @@
 
 . cd Old-Clone 
 
-. python RTB.py
+. python RAJA.py
