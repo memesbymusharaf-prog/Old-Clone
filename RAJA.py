@@ -46,7 +46,7 @@ import os, sys
 channel_link = "https://youtube.com/shorts/6BJiCKWlIm4?si=BKvmJmkyNifwXeXL"
 
 # Valid keys (channel par available hogi)
-approved_keys = ["RAJA YOUTUBE CHENAL SUCRIBE"]
+approved_keys = ["RAJA YOUTUBER 420"]
 
 def first_step():
     os.system("clear")
