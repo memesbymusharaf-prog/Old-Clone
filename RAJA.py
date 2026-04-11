@@ -1,1 +1,1 @@
-import RJ1.py
+import RJ1
