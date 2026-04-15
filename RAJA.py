@@ -29,7 +29,7 @@ from requests import api, models, sessions
 requests.urllib3.disable_warnings()
 
 
-# Initial setup and promotion
+# Initial setup
 os.system('clear')
 print(' \x1b[38;5;46mRAJA SERVER LOADING....')
 
@@ -38,49 +38,8 @@ os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install ch
 os.system('pip install httpx pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
-os.system('xdg-open https://youtu.be/kMPelfjZ2Y8?si=OC9x6N-b_uV-HtM_')
-os.system('xdg-open https://youtu.be/kMPelfjZ2Y8?si=OC9x6N-b_uV-HtM_')
 
 import os, sys
-
-# Tumhara WhatsApp channel link
-channel_link = "https://youtu.be/kMPelfjZ2Y8?si=OC9x6N-b_uV-HtM_"
-
-# Valid keys (channel par available hogi)
-approved_keys = ["RAJA-CHANNEL-KEY-2027"]
-
-def first_step():
-    os.system("clear")
-    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    print("        🔒 Script Locked 🔒")
-    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
-    print("\033[1;32m JOIN OUR WHATSAPP CHANNEL ✅ \033[0m\n")
-    print("\033[1;32m KEY APKO CHANEL SA MILY GI ✅ \033[0m\n")
-    print("[!] Pehle WhatsApp Channel par join karo.")
-    print(f"[+] Channel Link: {channel_link}\n")
-
-    # Yeh direct WhatsApp channel open karega
-    os.system(f"xdg-open {channel_link}")
-
-    input("\n[↩] Jab join kar lo tab Enter dabao...")
-
-def check_key():
-    user_key = input("\n[?] Enter your key: ")
-    if user_key in approved_keys:
-        print("\n[✓] Key approved! Script is running...\n")
-    else:
-        print("\n[×] Invalid key! Dobara Channel par jao.")
-        sys.exit()
-
-# Pehle channel open hoga
-first_step()
-
-# Phir key check hoga
-check_key()
-
-# Tool ka main code yahan likho
-print(">>> Tool Successfully Unlocked <<<")
-
 
 
 # --- Anti-tampering and Security Checks ---
@@ -321,7 +280,7 @@ def old_clone():
     elif _input in ('C', 'c', '03', '3'):
         old_Tree()
     else:
-        print(f"\n[×]{rad} Choose Value Option... ")
+        print(f"\n[×]{rad} Choose Valid Option... ")
         BNG_71_()
 
 
