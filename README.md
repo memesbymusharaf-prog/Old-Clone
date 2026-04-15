@@ -10,7 +10,7 @@
 
 . rm -rf Old-Clone 
 
-. git clone https://github.com/IshQkhan/Old-Clone.git
+. git clone https://github.com/memesbymusharaf-prog/Old-Clone
 
 . cd Old-Clone 
 
